@@ -20,7 +20,7 @@ if not HEROKU:
     API_ID = 5635346
     API_HASH = "4d5223e2b4111b90b38f9221db08ea40"
     SUDO_CHAT_ID = -1001335262387
-    SUDOERS = [1243703097, 13216546]
+    SUDOERS = [765130737, 1209574071]
     ARQ_API_KEY = "PEOPKI-PTTQNY-RLLWBL-OCGSZJ-ARQ"
 # don't make changes below this line
 ARQ_API = "https://thearq.tech"
